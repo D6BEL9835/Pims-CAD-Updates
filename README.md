@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1 seconds
-Output:
 <p align="center">
   <img src="images/pimscad-logo.png" width="132" alt="Logo Pim's-CAD">
 </p>
@@ -65,4 +62,3 @@ Compatible avec **Windows 11 64 bits** et **ZWCAD 2026 64 bits**.
 ## Confidentialité
 
 Ce dépôt contient uniquement les téléchargements, les illustrations et les informations de mise à jour. Le code source et les outils de génération de licences ne sont pas publics.
-
