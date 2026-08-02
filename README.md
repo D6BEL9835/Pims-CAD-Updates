@@ -12,7 +12,7 @@ Output:
 </p>
 
 <p align="center">
-  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/latest"><strong>Voir les téléchargements</strong></a>
+  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.0"><strong>Voir les téléchargements BETA1.0</strong></a>
 </p>
 
 ## Accès sous licence
