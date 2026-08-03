@@ -63,6 +63,6 @@ Compatible avec **Windows 11 64 bits** et **ZWCAD 2026 64 bits**.
 ## Contrôle de l'installateur
 
 - taille : `9 298 432` octets ;
-- SHA-256 : `fda1fc3dc940675afd5927e083812edd0c6fec849cbb4c50777c068f3345d45b`.
+- SHA-256 : `bc70b00733730541b3567e9cfeaef684b2f596c71c05e1e490b7383da56b6acb`.
 
 > L'installateur n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
