@@ -5,11 +5,11 @@
 <h1 align="center">Pim's-CAD — Centre de téléchargement</h1>
 
 <p align="center">
-  Extensions d'annotation et de prise de notes pour ZWCAD 2026 sous Windows 11.
+  Extensions d'annotation, de carroyage, de talus et de prise de notes pour ZWCAD 2026 sous Windows 11.
 </p>
 
 <p align="center">
-  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.1"><strong>Voir les téléchargements BETA1.1</strong></a>
+  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.2.0"><strong>Voir les téléchargements BETA1.2.0</strong></a>
 </p>
 
 ## Accès sous licence
@@ -40,6 +40,22 @@ Mesure de l'altitude au premier clic, puis placement libre du texte avec aperçu
   <img src="images/cotealt-z-beta1.0.png" width="760" alt="CoteAlt-Z">
 </p>
 
+### Carroyage
+
+Création d'un carroyage 2D dynamique depuis deux coins ou une polyligne fermée, avec orientation du SCU, repères, coordonnées X/Y intérieures, calques, couleurs et échelles prédéfinies, dont 1:125.
+
+<p align="center">
+  <img src="images/carroyage-beta1.2.0.png" width="920" alt="Page Carroyage de Pim's-CAD BETA1.2.0">
+</p>
+
+### Talus
+
+Création automatique des barbules entre une limite haute et une limite de pied, avec motifs régulier, alterné long/court et progressif, ainsi que les réglages d'échelle, d'espacement, de calque et de couleur.
+
+<p align="center">
+  <img src="images/talus-beta1.2.0.png" width="920" alt="Page Talus de Pim's-CAD BETA1.2.0">
+</p>
+
 ### Notes & Calculs
 
 Notes locales, copie facultative dans le DWG, export `.TXT` et calculatrice intégrée.
@@ -51,13 +67,15 @@ Notes locales, copie facultative dans le DWG, export `.TXT` et calculatrice int�
 ## Installation
 
 1. Fermez complètement ZWCAD.
-2. Téléchargez `Pims-CAD-BETA1.1-Setup.exe` depuis les versions publiées.
+2. Téléchargez `Pims-CAD-BETA1.2.0-Setup.exe` depuis les versions publiées.
 3. Lancez l'installateur et choisissez le dossier souhaité.
 4. Relancez ZWCAD, puis activez Pim's-CAD avec le fichier reçu de votre administrateur.
 
 Compatible avec **Windows 11 64 bits** et **ZWCAD 2026 64 bits**.
 
-> L'installateur BETA1.1 n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
+L'installation utilise désormais un dossier stable et supprime automatiquement les anciens bundles, désinstalleurs et enregistrements Pim's-CAD. Une seule version reste visible dans ZWCAD et dans les applications Windows ; les licences, notes et préférences sont conservées.
+
+> L'installateur BETA1.2.0 n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
 
 ## Confidentialité
 
