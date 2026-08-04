@@ -26,7 +26,7 @@ Au premier lancement, transmettez l'identifiant affiché à votre administrateur
 
 ### EtiquAlt-Y
 
-Étiquette dynamique de coordonnée Y avec bulle, flèche et poignées d'édition.
+Étiquette dynamique.
 
 <p align="center">
   <img src="images/etiqualt-y-beta1.0.png" width="760" alt="EtiquAlt-Y">
@@ -34,7 +34,7 @@ Au premier lancement, transmettez l'identifiant affiché à votre administrateur
 
 ### CoteAlt-Z
 
-Mesure de l'altitude au premier clic, puis placement libre du texte avec aperçu direct.
+Cotations d'altitudes.
 
 <p align="center">
   <img src="images/cotealt-z-beta1.0.png" width="760" alt="CoteAlt-Z">
@@ -42,7 +42,7 @@ Mesure de l'altitude au premier clic, puis placement libre du texte avec aperçu
 
 ### Carroyage
 
-Création d'un carroyage 2D dynamique depuis deux coins ou une polyligne fermée, avec orientation du SCU, repères, coordonnées X/Y intérieures, calques, couleurs et échelles prédéfinies, dont 1:125.
+Carroyage 2D dynamique.
 
 <p align="center">
   <img src="images/carroyage-beta1.2.0.png" width="920" alt="Page Carroyage de Pim's-CAD BETA1.2.0">
@@ -50,7 +50,7 @@ Création d'un carroyage 2D dynamique depuis deux coins ou une polyligne fermée
 
 ### Talus
 
-Création automatique des barbules entre une limite haute et une limite de pied, avec motifs régulier, alterné long/court et progressif, ainsi que les réglages d'échelle, d'espacement, de calque et de couleur.
+Création automatique des barbules entre une limite haute et une limite de pied, avec motifs régulier, alterné long/court et progressif.
 
 <p align="center">
   <img src="images/talus-beta1.2.0.png" width="920" alt="Page Talus de Pim's-CAD BETA1.2.0">
