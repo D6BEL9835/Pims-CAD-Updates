@@ -5,7 +5,7 @@
 <h1 align="center">Pim's-CAD — Centre de téléchargement</h1>
 
 <p align="center">
-  Extensions pour ZWCAD 2026 sous Windows 11.
+  Extensions pour ZWCAD 2026.
 </p>
 
 <p align="center">
