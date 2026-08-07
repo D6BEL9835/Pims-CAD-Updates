@@ -1,6 +1,6 @@
-# PMS-CAD â€” BETA1.3.0
+# Pim's-CAD BETA1.3.0
 
-Une nouvelle version de PMS-CAD est disponible.
+Une nouvelle version de Pim's-CAD est disponible.
 
 Cette mise Ã  jour introduit une nouvelle interface dÃ©diÃ©e aux annotations, la commande NUMBULLE et de nombreuses amÃ©liorations visuelles et fonctionnelles.
 
@@ -57,7 +57,7 @@ La commande propose notamment :
 
 - sÃ©lection directe dâ€™un calque prÃ©sent dans le dessin ;
 - nouvelles options de couleurs compatibles avec les choix natifs de ZWCAD ;
-- interface principale modernisÃ©e et harmonisÃ©e avec PMS-CAD.
+- interface principale modernisÃ©e et harmonisÃ©e avec Pim's-CAD.
 
 ## Interface
 
@@ -70,7 +70,7 @@ La commande propose notamment :
 ## Mises Ã  jour et installation
 
 - les notifications de mise Ã  jour restent visibles jusquâ€™Ã  une action de lâ€™utilisateur ;
-- la pastille de notification reste affichÃ©e tant que PMS-CAD nâ€™est pas Ã  jour ;
+- la pastille de notification reste affichÃ©e tant que Pim's-CAD nâ€™est pas Ã  jour ;
 - un clic sur la notification ouvre directement les prÃ©fÃ©rences ;
 - ajout dâ€™un accÃ¨s Ã  la dÃ©sinstallation complÃ¨te depuis les prÃ©fÃ©rences ;
 - lâ€™installateur propose dâ€™enregistrer les dessins et de fermer ZWCAD automatiquement ;
@@ -92,5 +92,4 @@ Compatible avec **Windows 11 64 bits** et **ZWCAD 2026 64 bits**.
 
 - taille : `9 324 032` octets ;
 - SHA-256 : `2a5d757364dfafd66e89810d28182f1ce323b9ffade999a83c047367e06011d6`.
-
 
