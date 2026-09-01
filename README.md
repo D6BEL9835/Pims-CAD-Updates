@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.3.1"><strong>Voir les téléchargements BETA1.3.1</strong></a>
+  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.3.2"><strong>Voir les téléchargements BETA1.3.2</strong></a>
 </p>
 
 ## Accès sous licence
@@ -61,7 +61,7 @@ Consultez également la [référence complète des commandes ZWCAD](https://gith
 ## Installation
 
 1. Fermez complètement ZWCAD.
-2. Téléchargez `Pims-CAD-BETA1.3.1-Setup.exe` depuis les versions publiées.
+2. Téléchargez `Pims-CAD-BETA1.3.2-Setup.exe` depuis les versions publiées.
 3. Lancez l'installateur et choisissez le dossier souhaité.
 4. Relancez ZWCAD, puis activez Pim's-CAD avec le fichier reçu de votre administrateur.
 
@@ -69,7 +69,7 @@ Compatible avec **Windows 11 64 bits** et **ZWCAD 2026 64 bits**.
 
 L'installation utilise désormais un dossier stable et supprime automatiquement les anciens bundles, désinstalleurs et enregistrements Pim's-CAD. Une seule version reste visible dans ZWCAD et dans les applications Windows ; les licences, notes et préférences sont conservées.
 
-> L'installateur BETA1.3.1 n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
+> L'installateur BETA1.3.2 n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
 
 ## Confidentialité
 
