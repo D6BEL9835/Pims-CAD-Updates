@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.3.0"><strong>Voir les téléchargements BETA1.3.0</strong></a>
+  <a href="https://github.com/D6BEL9835/Pims-CAD-Updates/releases/tag/BETA1.3.1"><strong>Voir les téléchargements BETA1.3.1</strong></a>
 </p>
 
 ## Accès sous licence
@@ -40,6 +40,14 @@ Création d'un carroyage 2D dynamique depuis deux coins ou une polyligne fermée
 
 Création automatique des barbules entre une limite haute et une limite de pied, avec motifs régulier, alterné long/court et progressif, ainsi que les réglages d'échelle, d'espacement, de calque et de couleur.
 
+### PMSHAIE
+
+Création d'une haie organique ouverte ou fermée, avec largeur, densité et randomisation configurables depuis le menu Habillage.
+
+### Add-On
+
+Le menu Application comprend un onglet Add-On qui regroupe les extensions complémentaires validées sans modifier le noyau de Pim's-CAD.
+
 ### Notes & Calculs
 
 Notes locales, copie facultative dans le DWG, export `.TXT` et calculatrice intégrée.
@@ -53,7 +61,7 @@ Consultez également la [référence complète des commandes ZWCAD](https://gith
 ## Installation
 
 1. Fermez complètement ZWCAD.
-2. Téléchargez `Pims-CAD-BETA1.3.0-Setup.exe` depuis les versions publiées.
+2. Téléchargez `Pims-CAD-BETA1.3.1-Setup.exe` depuis les versions publiées.
 3. Lancez l'installateur et choisissez le dossier souhaité.
 4. Relancez ZWCAD, puis activez Pim's-CAD avec le fichier reçu de votre administrateur.
 
@@ -61,7 +69,7 @@ Compatible avec **Windows 11 64 bits** et **ZWCAD 2026 64 bits**.
 
 L'installation utilise désormais un dossier stable et supprime automatiquement les anciens bundles, désinstalleurs et enregistrements Pim's-CAD. Une seule version reste visible dans ZWCAD et dans les applications Windows ; les licences, notes et préférences sont conservées.
 
-> L'installateur BETA1.3.0 n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
+> L'installateur BETA1.3.1 n'est pas encore signé numériquement. Windows SmartScreen peut demander une confirmation lors du premier lancement.
 
 ## Confidentialité
 
