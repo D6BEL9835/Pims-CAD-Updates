@@ -18,10 +18,6 @@ Pim's-CAD est un logiciel privé réservé aux utilisateurs autorisés. L'instal
 
 Au premier lancement, transmettez l'identifiant affiché à votre administrateur Pim's-CAD, puis importez le fichier de licence reçu.
 
-<p align="center">
-  <img src="images/activation-beta1.0.png" width="690" alt="Activation de Pim's-CAD">
-</p>
-
 ## Fonctions
 
 ### Annotation et NUMBULLE
@@ -32,41 +28,21 @@ La fenêtre Annotation regroupe Cote ALT Z, EtiquAlt-Y et NUMBULLE. NUMBULLE pla
 
 Étiquette dynamique de coordonnée Y avec bulle, flèche et poignées d'édition.
 
-<p align="center">
-  <img src="images/etiqualt-y-beta1.0.png" width="760" alt="EtiquAlt-Y">
-</p>
-
 ### CoteAlt-Z
 
 Mesure de l'altitude au premier clic, puis placement libre du texte avec aperçu direct.
-
-<p align="center">
-  <img src="images/cotealt-z-beta1.0.png" width="760" alt="CoteAlt-Z">
-</p>
 
 ### Carroyage
 
 Création d'un carroyage 2D dynamique depuis deux coins ou une polyligne fermée, avec orientation du SCU, repères, coordonnées X/Y intérieures, calques, couleurs et échelles prédéfinies, dont 1:125.
 
-<p align="center">
-  <img src="images/carroyage-beta1.2.0.png" width="920" alt="Page Carroyage de Pim's-CAD BETA1.2.0">
-</p>
-
 ### Talus
 
 Création automatique des barbules entre une limite haute et une limite de pied, avec motifs régulier, alterné long/court et progressif, ainsi que les réglages d'échelle, d'espacement, de calque et de couleur.
 
-<p align="center">
-  <img src="images/talus-beta1.2.0.png" width="920" alt="Page Talus de Pim's-CAD BETA1.2.0">
-</p>
-
 ### Notes & Calculs
 
 Notes locales, copie facultative dans le DWG, export `.TXT` et calculatrice intégrée.
-
-<p align="center">
-  <img src="images/notes-calculs-beta1.0.png" width="880" alt="Notes et Calculs">
-</p>
 
 ## Documentation complète
 
